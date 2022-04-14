@@ -1,0 +1,14 @@
+{
+    "name": "template-bot",
+    "version": "1.0.0",
+    "description": "Template bot generated via all-a-bot.herokuapp.com",
+    "scripts": {
+        "start": "bot.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.3.1",
+        "discord.js-poll-embed": "^1.0.2"
+    }
+}
